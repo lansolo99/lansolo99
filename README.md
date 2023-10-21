@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![An image of @lansolo99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lansolo99)](https://holopin.io/@lansolo99)
+
 My name is Stephane and I'm a front-end developer with an important design background.
 
 - 🔭 I’m currently working from Montpellier
@@ -8,4 +10,3 @@ My name is Stephane and I'm a front-end developer with an important design backg
 - 📫 How to reach me: https://www.linkedin.com/in/stephanechangarnier
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: workaholic
-
