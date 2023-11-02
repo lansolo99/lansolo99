@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi there I'm Stéphane AKA lansolo99 👋
+<img src="https://res.cloudinary.com/lansolo99/image/upload/f_auto,q_auto/v1/lansolo99/github/montpellier" alt="Montpellier" style="max-width: 500px; display: inline-block;"/>
 
-[![An image of @lansolo99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lansolo99)](https://holopin.io/@lansolo99)
+I'm a freelance front-end developer and designer/motion designer.
 
-My name is Stephane and I'm a front-end developer with an important design background.
-
-- 🔭 I’m currently working from Montpellier
-- 🌱 I’m currently improving on Next.js stack + Copilot / cinema 4D + AE compositing
-- 💬 Ask me about Next.js workflows, I've chosen to focus on React/Next in the expense of Vue/Nuxt for 3 years now
+- 🔭 I’m currently working from Montpellier (South of France)
+- 🌱 I’m currently improving on Next.js stack + Copilot / Cinema 4D + AE compositing
+- My current stack is mostly Next.js + Tailwind
+- I have been working for years with [Pommeclic](https://www.pommeclic.com) where you can see most of my pro works showcased.
 - 📫 How to reach me: https://www.linkedin.com/in/stephanechangarnier
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: workaholic
+
+### Pins:
+[![An image of @lansolo99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lansolo99)](https://holopin.io/@lansolo99)
