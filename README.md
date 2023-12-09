@@ -4,7 +4,7 @@
 I'm a freelance front-end developer and designer/motion designer.
 
 - 🔭 I’m currently working from Montpellier (South of France)
-- 🌱 I’m currently improving on Next.js stack + Copilot / Cinema 4D + AE compositing
+- 🌱 I’m currently improving on Next.js stack w/ Gh Copilot
 - My current stack is mostly Next.js + Tailwind
 - I have been working for years with [Pommeclic](https://www.pommeclic.com) where you can see most of my pro works showcased.
 - 📫 How to reach me: https://www.linkedin.com/in/stephanechangarnier
