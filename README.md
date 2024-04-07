@@ -3,8 +3,8 @@
 
 I'm a freelance front-end developer and designer/motion designer.
 
-- 🔭 I’m currently working from Montpellier (South of France)
-- 🌱 I’m currently learning Supabase
+- 🔭 I’m currently working from Montpellier
+- 🌱 I’m currently learning Zustand & Copilot improvements
 - My current stack is mostly Next.js + Tailwind
 - I have been working for years with [Pommeclic](https://www.pommeclic.com) where you can see most of my pro works showcased.
 - 📫 How to reach me: https://www.linkedin.com/in/stephanechangarnier
