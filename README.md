@@ -4,7 +4,7 @@
 I'm a freelance front-end developer and designer/motion designer.
 
 - 🔭 I’m currently working from Montpellier
-- 🌱 I’m currently improving on Firebase + app architecture 
+- 🌱 I’m currently improving on Firebase + app architecture + Spline 3D
 - My current stack is mostly Next.js + Tailwind
 - I have been working for years with [Pommeclic](https://www.pommeclic.com) where you can see most of my pro works showcased.
 - 📫 How to reach me: https://www.linkedin.com/in/stephanechangarnier
