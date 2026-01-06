@@ -6,7 +6,7 @@ I'm a frontend engineer, working at Giskard.
 - 🔭 I’m currently working from Montpellier, sometimes in Paris, sometimes nearby countries
 - 🌱 I’m currently improving on clean architecture
 - My current stack is mostly Next.js + Tailwind
-- I have been working for years with [Pommeclic](https://www.pommeclic.com) where you can see most of my pro works showcased.
+- I have been working for years with [Pommeclic](https://www.pommeclic.com) for years, now I'm working with [Giskard.ai](https://www.giskard.ai/) as a front-end engineer.
 - 📫 How to reach me: https://www.linkedin.com/in/stephanechangarnier
 
 ### Pins:
